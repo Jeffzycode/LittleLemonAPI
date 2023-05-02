@@ -3,9 +3,9 @@ An experimental API made as a part of Coursera's API course in the Meta Back-End
 
 # Installation
 
-1. `pipenv shell`
+1. `pipenv install`
 
-2. `pipenv install`
+2. `pipenv shell`
 
 3. `python manage.py makemigrations`
 
